@@ -17,15 +17,15 @@ header {
   width: 120px;
 }
 
-main{
+main {
   margin: 40px 100px 60px 150px;
 }
 
-form{
+form {
   width: 600px;
 }
 
-h1{
+h1 {
   font-size: 45px;
   line-height: 53px;
 }
@@ -35,7 +35,6 @@ h1{
   height: 100%;
   position: relative;
 }
-
 
 .dis_bloc {
   display:block;
@@ -50,47 +49,46 @@ h1{
   padding: 18px;
 }
 
-.Second_nav{
+.Second_nav {
   width: 320px;
   margin-left: 20px;
   border-right: 2px solid grey ;
 }
 
-.dis_in_text{
+.dis_in_text {
   display: inline;
   margin-left: 20px;
 }
 
-.settings_box{
+.settings_box {
   margin:40px 15px 60px;
 }
 
-
-.editp_user{
+.editp_user {
   width: 600px;
   display: flex;
   justify-content: space-between;
   margin-bottom: 5px;
 }
 
-.dis_bloc_form{
+.dis_bloc_form {
   display: block;
 }
 
-.divede_box{
+.divede_box {
   display: flex;
   justify-content: space-between;
   margin-bottom: 10PX;
 }
 
-.with_heigt{
+.with_heigt {
   width: 250px;
   height: 35px;
   border-radius: 6px;
   padding-left: 10px;
 }
 
-.width{
+.width {
   width: 600px;
   height: 35px;
   border-radius: 6px;
@@ -98,45 +96,45 @@ h1{
   padding-left: 10px;
 }
 
-.bottom_box{
+.bottom_box {
   margin: 40px 0px ; 
 }
 
-.nav_inter_box{
+.nav_inter_box {
   margin: 0px 0px 45px 50px;
 }
 
-.settings{
+.settings {
   margin-left: 3px;
 }
 
-.font_title{
+.font_title {
   font-size: 28px;
   line-height: 38px;
   color: #1C1C1C;
   font-weight: bold;
 }
 
-.font_sub_title{
+.font_sub_title {
   font-size: 26px;
   line-height: 33px;
   color: #1C1C1C;
   font-weight: bold;
 }
 
-.fonts{
+.fonts {
   font-size: 24px;
 line-height: 33px;
 color: #858585;
 }
 
-.form_titles{
+.form_titles {
   font-size: 18px;
   line-height: 30px;
   color: #1C1C1C;
 }
 
-.cancel_bottom{
+.cancel_bottom {
   width: 140px;
   padding: 5px;
   border-radius: 5px;
@@ -147,7 +145,7 @@ color: #858585;
   line-height: 33px;
 }
 
-.safe_bottom{
+.safe_bottom {
   width: 140px;
   padding: 5px;
   border-radius: 5px;
@@ -159,14 +157,13 @@ color: #858585;
   margin-left: 40px;
 }
 
-.img{
+.img {
   position: absolute;
   bottom: 701px;
   left: 1300px;
-
 }
 
-.img_user{
+.img_user {
   position: absolute;
   left: 1350px;
   bottom: 698px;
