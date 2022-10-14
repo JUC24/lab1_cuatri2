@@ -1,0 +1,173 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0px;
+  height: 100%;
+  font-family: 'Roboto', sans-serif, Arial, Helvetica;
+  font-weight: 500;
+}
+
+header {
+  background-color: rgba(255, 194, 151, 1);
+  height: 100%;
+  box-sizing: border-box;
+  padding: 30px 20px 0px 20px;
+  width: 120px;
+}
+
+main{
+  margin: 40px 100px 60px 150px;
+}
+
+form{
+  width: 600px;
+}
+
+h1{
+  font-size: 45px;
+  line-height: 53px;
+}
+
+.main_container {
+  display: flex;
+  height: 100%;
+  position: relative;
+}
+
+
+.dis_bloc {
+  display:block;
+  margin: 50px 20px 0px 20px;
+}
+
+.dis_block_setti {
+  display: block;
+  margin-top: 140px;
+  background-color: rgba(255, 112, 8, 1);
+  border-radius: 100%;
+  padding: 18px;
+}
+
+.Second_nav{
+  width: 320px;
+  margin-left: 20px;
+  border-right: 2px solid grey ;
+}
+
+.dis_in_text{
+  display: inline;
+  margin-left: 20px;
+}
+
+.settings_box{
+  margin:40px 15px 60px;
+}
+
+
+.editp_user{
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.dis_bloc_form{
+  display: block;
+}
+
+.divede_box{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10PX;
+}
+
+.with_heigt{
+  width: 250px;
+  height: 35px;
+  border-radius: 6px;
+  padding-left: 10px;
+}
+
+.width{
+  width: 600px;
+  height: 35px;
+  border-radius: 6px;
+  margin-bottom: 12px;
+  padding-left: 10px;
+}
+
+.bottom_box{
+  margin: 40px 0px ; 
+}
+
+.nav_inter_box{
+  margin: 0px 0px 45px 50px;
+}
+
+.settings{
+  margin-left: 3px;
+}
+
+.font_title{
+  font-size: 28px;
+  line-height: 38px;
+  color: #1C1C1C;
+  font-weight: bold;
+}
+
+.font_sub_title{
+  font-size: 26px;
+  line-height: 33px;
+  color: #1C1C1C;
+  font-weight: bold;
+}
+
+.fonts{
+  font-size: 24px;
+line-height: 33px;
+color: #858585;
+}
+
+.form_titles{
+  font-size: 18px;
+  line-height: 30px;
+  color: #1C1C1C;
+}
+
+.cancel_bottom{
+  width: 140px;
+  padding: 5px;
+  border-radius: 5px;
+  color: rgba(255, 112, 8, 1);
+  border: 3px ridge rgba(255, 112, 8, 1);
+  background-color: white;
+  font-size: 18px;
+  line-height: 33px;
+}
+
+.safe_bottom{
+  width: 140px;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  border-color: rgba(255, 112, 8, 1);
+  background-color:rgba(255, 112, 8, 1);
+  font-size: 18px;
+  line-height: 33px;
+  margin-left: 40px;
+}
+
+.img{
+  position: absolute;
+  bottom: 701px;
+  left: 1300px;
+
+}
+
+.img_user{
+  position: absolute;
+  left: 1350px;
+  bottom: 698px;
+}
